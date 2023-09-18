@@ -19,7 +19,7 @@ export default {
   },
   mounted() {
     this.naverLogin = new window.naver.LoginWithNaverId({
-      clientId: "I0fXbGMKugcUoTHBS7cX",
+      clientId: "IapqRycG1ktrS42rWihn",
       callbackUrl: "http://boong-o-bbang.com/naverLogin",
       isPopup: false,
     });
